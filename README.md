@@ -53,4 +53,17 @@ solar-energy-forecasting/
 ├── README.md           ← Project explanation (this file)
 ├── requirements.txt    ← List of Python libraries used
 └── Final_Report.pdf    ← Project documentation/report
+```markdown
+## 📊 Results Summary
+
+All models were evaluated on:
+
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Squared Error)
+- R² Score (Coefficient of Determination)
+
+**Best performing model:** LSTM  
+**Best for simplicity & interpretability:** Lasso Regression  
+**Best balance of accuracy & speed:** XGBoost
+
 
