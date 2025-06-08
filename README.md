@@ -123,10 +123,10 @@ This project is licensed under the MIT License.
 
 ## Authors
 
-* HMRV Herath – D/DBA/22/0002
-* RN Silva – D/DBA/22/0007
-* TM Kahavidhana – D/DBA/22/0017
-* KT Panditha – D/DBA/22/0028
+* HMRV Herath 
+* RN Silva 
+* TM Kahavidhana 
+* KT Panditha 
 
 > Supervised by Mrs. SMM Lakmali
 > Department of Computational Mathematics
