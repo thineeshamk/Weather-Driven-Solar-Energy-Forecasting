@@ -89,18 +89,18 @@ pip install -r requirements.txt
 
 ### 3. Run the Models (Optional)
 
-Run the following Jupyter notebooks to train the models:
+To train and evaluate the models, open and run the following Jupyter notebooks:
 
-1. Open each of the following notebooks in Jupyter:
+1. `src/Final 15min Model.ipynb`  
+2. `src/Final 1hr Model.ipynb`  
+3. `src/Final Short term and long term XGBoost model.ipynb`  
+4. `src/Lasso_Regression_Model (2).ipynb`  
+5. `src/codeFinal.ipynb`  
 
-   - `src/model1_train.ipynb`
-   - `src/model2_train.ipynb`
-   - `src/model3_train.ipynb`
-   - ...
-
-2. For each notebook:
-   - Click **"Run All"** (or run each cell one by one)
-   - Wait until the training completes
+**Instructions:**
+- Open each notebook using Jupyter Notebook or JupyterLab.
+- Run all cells by clicking **"Run All"** or manually running them one by one.
+- Each notebook contains code to load data, train models, and display results.
 
 ### 4. Launch the Streamlit App
 
