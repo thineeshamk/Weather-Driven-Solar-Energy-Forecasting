@@ -59,8 +59,8 @@ By integrating solar plant operational data with local weather data, the model h
 ```text
 solar-energy-forecasting/
 ├── data/               ← (Not included – contains private operational and weather data)
-├── notebooks/          ← Jupyter Notebooks for EDA and modeling
-├── src/                ← Python scripts for training and utils
+├── notebooks/          ← Jupyter Notebooks for EDA 
+├── src/                ← ipynb files for training and other preprocessing tasks
 ├── app/                ← Deployment files (e.g., Streamlit app)
 ├── reports/            ← Graphs, figures, and evaluation plots
 ├── README.md           ← Project explanation (this file)
