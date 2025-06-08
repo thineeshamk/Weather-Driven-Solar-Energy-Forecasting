@@ -89,9 +89,18 @@ pip install -r requirements.txt
 
 ### 3. Run the Models (Optional)
 
-```bash
-python src/train_models.py
-```
+Run the following Jupyter notebooks to train the models:
+
+1. Open each of the following notebooks in Jupyter:
+
+   - `src/model1_train.ipynb`
+   - `src/model2_train.ipynb`
+   - `src/model3_train.ipynb`
+   - ...
+
+2. For each notebook:
+   - Click **"Run All"** (or run each cell one by one)
+   - Wait until the training completes
 
 ### 4. Launch the Streamlit App
 
