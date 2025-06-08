@@ -9,3 +9,11 @@ By integrating solar plant operational data with local weather data, the model h
 - Improve energy planning
 - Enhance power grid stability
 - Reduce operational uncertainty
+
+## 🚀 How to Run the Project
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/solar-energy-forecasting.git
+cd solar-energy-forecasting
