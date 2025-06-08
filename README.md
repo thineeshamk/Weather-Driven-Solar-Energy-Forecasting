@@ -1,4 +1,4 @@
-# ☀️ Weather-Driven Solar Energy Forecasting
+# Weather-Driven Solar Energy Forecasting
 
 This is a machine learning project developed as part of a group research project for the BSc (Hons) in Data Science and Business Analytics at General Sir John Kotelawala Defence University.
 
@@ -6,7 +6,7 @@ The project focuses on building an accurate and efficient solar power output pre
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The main goal of this project is to forecast **short-term (15 minutes)** and **long-term (1 hour)** solar power output using machine learning techniques.
 
@@ -17,7 +17,7 @@ By integrating solar plant operational data with local weather data, the model h
 
 ---
 
-## 🔍 Objectives
+## Objectives
 
 - Acquire and clean solar and weather datasets
 - Perform exploratory data analysis (EDA)
@@ -30,7 +30,7 @@ By integrating solar plant operational data with local weather data, the model h
 
 ---
 
-## 🧠 Machine Learning Models Used
+## Machine Learning Models Used
 
 | Model              | Type           | Purpose                             |
 |-------------------|----------------|-------------------------------------|
@@ -41,7 +41,7 @@ By integrating solar plant operational data with local weather data, the model h
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **Pandas, NumPy, Scikit-learn**
@@ -54,7 +54,7 @@ By integrating solar plant operational data with local weather data, the model h
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```text
 solar-energy-forecasting/
@@ -68,11 +68,11 @@ solar-energy-forecasting/
 └── Final_Report.pdf    ← Project documentation/report
 ````
 
-> ⚠️ Note: Due to privacy and data protection policies, the `data/` folder is not included in this repository.
+> Note: Due to privacy and data protection policies, the `data/` folder is not included in this repository.
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the Repository
 
@@ -101,7 +101,7 @@ streamlit run app/streamlit_app.py
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 All models were evaluated on:
 
@@ -115,13 +115,13 @@ All models were evaluated on:
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍🎓 Authors
+## Authors
 
 * HMRV Herath – D/DBA/22/0002
 * RN Silva – D/DBA/22/0007
